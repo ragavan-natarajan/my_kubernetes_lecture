@@ -38,9 +38,9 @@ one. For now, it should provide a broad overview of what is covered.
 8. Jobs
 9. Deployments
 10. GKE features
-... * Node pools
-... * GPUs on Kubernetes
-... * Cluster Autoscaling
+    * Node pools
+    * GPUs on Kubernetes
+    * Cluster Autoscaling
 11. Data Processing, and Persistence Layers on Kubernetes
 12. Machine Learning on Kubernetes
 13. Ksonnet
