@@ -15,11 +15,11 @@ present or past organizations.
 ## How is this course different?
 
 There are thousands of tutoritals online on Kubernetes. I try to take a
-different approach in teaching Kubernetes in this course, I call it the
-*_Problems before solutions_* approach. Every topic presented in this series
+different approach in teaching Kubernetes in this course, and I call it the
+__Problems before solutions__ approach. Every topic presented in this series
 would be motivated by problems and the difficult ways that existed to solve
 those problems, before better approaches and solutions are presented to the
-audience. I see this style lacking in many of the _how-to_ style online
+audience. I see this style lacking in many of the __how-to__ style online
 tutorials. People get to learn how to do things, but not why do it that way.
 
 ## Content outline:
