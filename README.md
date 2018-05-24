@@ -9,7 +9,7 @@ International](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 The materials presented in this content are completely my own, with citations
 provided wherever necessary. The opinions in any of the documents in this
-material are strictly my own and *does not* reflect the opinions of any of my
+material are strictly my own and **does not** reflect the opinions of any of my
 present or past organizations.
 
 ## How is this course different?
